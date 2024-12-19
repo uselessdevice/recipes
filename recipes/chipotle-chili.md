@@ -6,19 +6,19 @@ Adapted from [Chili Pepper Madness](https://www.chilipeppermadness.com/recipes/c
 
 ## Ingredients
 
-- 1 tablespoon olive oil
-- 1.5 pound ground turkey, ground beef, rehydrated TVP (see [Notes](#notes)), or a combination
+- 1 T olive oil
+- 1.5 lb ground turkey, ground beef, rehydrated TVP (see [Notes](#notes)), or a combination
 - 1 large onion chopped
 - 1 jalapeno pepper, chopped
 - 1 poblano pepper, chopped
 - 1 serrano chili pepper, chopped (or similar spicy chili pepper)
 - 4 cloves garlic chopped
-- 3 cans fire roasted tomatoes (42 ounces, or use equivalent fresh or diced tomatoes)
+- 3 cans fire roasted tomatoes (42 oz, or use equivalent fresh or diced tomatoes)
 - 2 cans red kidney beans (or black beans, pinto beans, or a combination of beans)
-- 1 7-ounce can chipotle peppers in adobo sauce (see [Notes](#notes))
-- 2 tablespoons chili powder (blend of ancho and guajillo powder, or similar)
-- 1 teaspoon ground cumin
-- 1 teaspoon chili flakes (any kind available)
+- 1 7-oz can chipotle peppers in adobo sauce (see [Notes](#notes))
+- 2 T chili powder (blend of ancho and guajillo powder, or similar)
+- 1 t ground cumin
+- 1 t chili flakes (any kind available)
 - Salt and pepper to taste
 
 ## Steps
@@ -36,6 +36,6 @@ Adapted from [Chili Pepper Madness](https://www.chilipeppermadness.com/recipes/c
 
 ## Notes
 
-12 ounces by volume of TVP rehydrates to 1.5 pound ground meat equivalent
+12 oz by volume of TVP rehydrates to 1.5 lb ground meat equivalent
 
 Benefits from using a homemade adobo sauce with cinnamon in it (can substitute this for the chili powder).
